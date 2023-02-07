@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+pandas==1.5.2
+numpy==1.23.5
+seaborn==0.12.1
+
